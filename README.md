@@ -36,7 +36,9 @@ Asimismo, se puede bloquear a un usuario presionando en **Bloquear Usuario**. Cu
 
 Otra funcionalidad ofrecida es la de métricas de interacciones y viajes. 
 
-FOTO DE METRICAS
+![image](https://user-images.githubusercontent.com/71950097/207972341-405af2a4-d968-4401-81e0-b221d3e40200.png)
+![image](https://user-images.githubusercontent.com/71950097/207972724-bd352fe0-1cd4-4a6e-8066-fe71380e849b.png)
+
 
 Tal como se observa en la imagen, se visualizan la cantidad de logins federados y no federados, la cantidad de registros,los pagos fallidos y exitosos, y por último, algunas métricas sobre los viajes realizados.
 
