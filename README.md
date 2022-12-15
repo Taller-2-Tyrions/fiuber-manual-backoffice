@@ -35,9 +35,27 @@ Asimismo, se puede bloquear a un usuario presionando en **Bloquear Usuario**. Cu
 
 ## Métricas
 
+Otra funcionalidad ofrecida es la de métricas de interacciones y viajes. 
+
+FOTO DE METRICAS
+
+Tal como se observa en la imagen, se visualizan la cantidad de logins federados y no federados, la cantidad de registros,los pagos fallidos y exitosos, y por último, algunas métricas sobre los viajes realizados.
+
 ## Denuncias
+
+Otro aspecto interesante a revisar periódicamente por los administradores son las denuncias realizadas por los pasajeros para controlar que no haya situaciones indeseadas en el ecosistema Fiuber. En la pantalla **Denuncias** se visualizan las mismas. 
+
+FOTO DE LA DENUNCIA
+
+Presionando sobre el símbolo +, se extiende la denuncia con los comentarios realizados que amplían los datos de la denuncia.
 
 ## Cotización
 
+Por último, los administradores tienen la posibilidad de modificar los parámetros de cotización de los viajes. Cada viaje es el resultado de un cálculo complejo que tiene en cuenta muchos parámetros.
+
+![image](https://user-images.githubusercontent.com/65830097/207948544-e10905fd-eb4d-4445-a693-4f4d730730ba.png)
+
+
+Para modificar los mismos, modificar las variables que se quieran ajustar, y luego confirmar presionando **Submit**
 
 
