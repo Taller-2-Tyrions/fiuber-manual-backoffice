@@ -25,7 +25,7 @@ Desde la barra de opciones a la izquierda se puede seleccionar la pantalla que s
 
 La anterior imagen muestra un Dashboard de los usuarios del sistema. El mismo muestra información básica de cada usuario. Haciendo click sobre el ID de un usuario, se muestra más información sobre el usuario en cuestión.
 
-FOTO DE PANTALLA DE USUARIO
+![image](https://user-images.githubusercontent.com/71950097/207976095-e4b1dc26-818b-4cb6-b07c-3ffb363e9b22.png)
 
 Además de la información que se puede observar en la imagen, esta pantalla permite agregar el rol de administrador a un usuario oprimiendo el botón **Dar Permisos de Administrador**. Una vez que se agrega este rol, el mismo podrá loggearse al backoffice. 
 
