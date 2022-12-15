@@ -11,8 +11,7 @@ Esta aplicación está dirigida para los administradores de Fiuber. Ofrece una i
 ## Login
 
 La pantalla inicial del backoffice consta de una pantalla de Login. Solamente los administradores pueden iniciar sesión en la aplicación.
-
-PANTALLA LOGIN ADMIN
+![image](https://user-images.githubusercontent.com/71950097/207970583-3483c0b1-6717-4405-8711-a188284dd9b7.png)
 
 ## Pantalla Principal
 
