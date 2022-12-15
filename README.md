@@ -3,7 +3,7 @@
 La aplicación de Backoffice Web está accesible en el siguiente link:
 
 
-[](https://fiuber-backoffice-new.herokuapp.com/)
+<https://fiuber-backoffice-new.herokuapp.com/>
 
 
 Esta aplicación está dirigida para los administradores de Fiuber. Ofrece una interfaz sumamente intuitiva para que puedan controlar las interacciones en el sistema, modificar parámetros de cotizaciones, entre otras funcionalidades.
