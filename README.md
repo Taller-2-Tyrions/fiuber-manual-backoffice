@@ -46,7 +46,7 @@ Tal como se observa en la imagen, se visualizan la cantidad de logins federados 
 
 Otro aspecto interesante a revisar periódicamente por los administradores son las denuncias realizadas por los pasajeros para controlar que no haya situaciones indeseadas en el ecosistema Fiuber. En la pantalla **Denuncias** se visualizan las mismas. 
 
-FOTO DE LA DENUNCIA
+![image](https://user-images.githubusercontent.com/71950097/207974529-02dc7bff-0c95-4be9-9d9d-2e808a1e456c.png)
 
 Presionando sobre el símbolo +, se extiende la denuncia con los comentarios realizados que amplían los datos. En cada fila, se puede presionar sobre el usuario denunciado para visualizar su perfil, y si se lo desea, bloquearlo.
 
