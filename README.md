@@ -47,7 +47,7 @@ Otro aspecto interesante a revisar periódicamente por los administradores son l
 
 FOTO DE LA DENUNCIA
 
-Presionando sobre el símbolo +, se extiende la denuncia con los comentarios realizados que amplían los datos de la denuncia.
+Presionando sobre el símbolo +, se extiende la denuncia con los comentarios realizados que amplían los datos. En cada fila, se puede presionar sobre el usuario denunciado para visualizar su perfil, y si se lo desea, bloquearlo.
 
 ## Cotización
 
